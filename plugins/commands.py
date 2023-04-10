@@ -143,7 +143,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Support Group, url=GRP_LNK),
+                          InlineKeyboardButton('Support Group', url=GRP_LNK),
                           InlineKeyboardButton('Updates Channel', url=CHNL_LNK)
                        ],[
                           InlineKeyboardButton("Bot Owner", url="t.me/TheHtmlUser")
