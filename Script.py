@@ -1,7 +1,9 @@
 class script(object):
-    START_TXT = """<b>Hey {}, My Name Is <a href=https://t.me/{}>{}</a>, I am A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Groups.
+    START_TXT = """<b>👋🏻 Hey {}, My Name Is <a href=https://t.me/{}>{}</a>,</b>
+    
+    I am A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. You Can Search Movies Via Inline. I Can Also Add Filters In Groups.
    
-Just Add Me To Your Group And Enjoy</b>"""
+<b>Just Add Me To Your Group And Enjoy</b>"""
 
     HELP_TXT = """<b>Hey {}
 
